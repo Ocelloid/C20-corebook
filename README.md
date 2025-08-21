@@ -254,6 +254,8 @@ python scripts/glossary_tools.py merge      # Объединение дубли�
 | 00_credits_and_dedication                      | 001-007  | ✅ Переведено | 7 стр.  |
 | 01_contents                                    | 008-011  | ✅ Переведено | 4 стр.  |
 | 02_book_one_childling                          | 012-013  | ✅ Переведено | 2 стр.  |
+| 03_prelude_both_sides_of_the_coin              | 014-024  | ✅ Переведено | 11 стр. |
+| 04_introduction                                | 025-030  | ✅ Переведено | 6 стр.  |
 | 05_chapter_one_a_world_of_darkness             | 031-082  | ✅ Переведено | 52 стр. |
 | 06_chapter_two_the_kithain                     | 083-138  | ✅ Переведено | 56 стр. |
 | 07_chapter_three_character_creation_and_traits | 139-192  | ✅ Переведено | 54 стр. |
@@ -265,8 +267,6 @@ python scripts/glossary_tools.py merge      # Объединение дубли�
 | Раздел                                         | Страницы | Статус         | Приоритет |
 | ---------------------------------------------- | -------- | -------------- | --------- |
 | 08_chapter_four_arts_and_realms                | 193-240  | 📋 Планируется | Высокий   |
-| 03_prelude_both_sides_of_the_coin              | 014-024  | 📋 Планируется | Высокий   |
-| 04_introduction                                | 025-030  | 📋 Планируется | Высокий   |
 | 09_chapter_five_rules                          | 241-250  | 📋 Планируется | Высокий   |
 | 10_chapter_six_systems_and_drama               | 251-298  | 📋 Планируется | Высокий   |
 | 11_chapter_seven_the_dreaming                  | 299-326  | 📋 Планируется | Средний   |
