@@ -259,6 +259,8 @@ python scripts/glossary_tools.py merge      # Объединение дубли�
 | 05_chapter_one_a_world_of_darkness             | 031-082  | ✅ Переведено | 52 стр. |
 | 06_chapter_two_the_kithain                     | 083-138  | ✅ Переведено | 56 стр. |
 | 07_chapter_three_character_creation_and_traits | 139-192  | ✅ Переведено | 54 стр. |
+| 08_chapter_four_arts_and_realms                | 193-240  | ✅ Переведено | 38 стр. |
+| 09_chapter_five_rules                          | 241-250  | ✅ Переведено | 10 стр. |
 
 **Итого переведено:** 192 страницы из 482 (40%)
 
@@ -266,8 +268,6 @@ python scripts/glossary_tools.py merge      # Объединение дубли�
 
 | Раздел                                         | Страницы | Статус         | Приоритет |
 | ---------------------------------------------- | -------- | -------------- | --------- |
-| 08_chapter_four_arts_and_realms                | 193-240  | 📋 Планируется | Высокий   |
-| 09_chapter_five_rules                          | 241-250  | 📋 Планируется | Высокий   |
 | 10_chapter_six_systems_and_drama               | 251-298  | 📋 Планируется | Высокий   |
 | 11_chapter_seven_the_dreaming                  | 299-326  | 📋 Планируется | Средний   |
 | 12_chapter_eight_storytelling                  | 327-344  | 📋 Планируется | Средний   |
