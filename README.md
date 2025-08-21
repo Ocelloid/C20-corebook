@@ -261,15 +261,15 @@ python scripts/glossary_tools.py merge      # Объединение дубли�
 | 07_chapter_three_character_creation_and_traits | 139-192  | ✅ Переведено | 54 стр. |
 | 08_chapter_four_arts_and_realms                | 193-240  | ✅ Переведено | 38 стр. |
 | 09_chapter_five_rules                          | 241-250  | ✅ Переведено | 10 стр. |
+| 10_chapter_six_systems_and_drama               | 251-298  | ✅ Переведено | 48 стр. |
+| 11_chapter_seven_the_dreaming                  | 299-326  | ✅ Переведено | 28 стр. |
 
-**Итого переведено:** 250 страниц из 482 (52%)
+**Итого переведено:** 326 страниц из 482 (67%)
 
 ### 🔄 В процессе / Планируется
 
 | Раздел                                         | Страницы | Статус         | Приоритет |
 | ---------------------------------------------- | -------- | -------------- | --------- |
-| 10_chapter_six_systems_and_drama               | 251-298  | 📋 Планируется | Высокий   |
-| 11_chapter_seven_the_dreaming                  | 299-326  | 📋 Планируется | Средний   |
 | 12_chapter_eight_storytelling                  | 327-344  | 📋 Планируется | Средний   |
 | 13_chapter_nine_nightmares_and_stranger_things | 345-391  | 📋 Планируется | Средний   |
 | 14_appendix_gallain                            | 392-452  | 📋 Планируется | Низкий    |
