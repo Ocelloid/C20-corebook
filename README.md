@@ -128,7 +128,7 @@ python scripts/glossary_tools.py merge      # Объединение дубли�
 
 ...уж всяко лучше чем "драконьи койки" лмао
 
-На данный момент отредактированы 30 из 463 страниц (6%)
+На данный момент отредактированы 35 из 463 страниц (8%)
 
 | Раздел                                         | Страницы | Статус     | Объём   |
 | ---------------------------------------------- | -------- | ---------- | ------- |
@@ -137,7 +137,7 @@ python scripts/glossary_tools.py merge      # Объединение дубли�
 | 02_book_one_childling                          | 012-013  | Завершено  | 2 стр.  |
 | 03_prelude_both_sides_of_the_coin              | 014-024  | Завершено  | 11 стр. |
 | 04_introduction                                | 025-030  | Завершено  | 6 стр.  |
-| 05_chapter_one_a_world_of_darkness             | 031-082  | В ожидании | 52 стр. |
+| 05_chapter_one_a_world_of_darkness             | 031-082  | На стр 35  | 52 стр. |
 | 06_chapter_two_the_kithain                     | 083-138  | В ожидании | 56 стр. |
 | 07_chapter_three_character_creation_and_traits | 139-192  | В ожидании | 54 стр. |
 | 08_chapter_four_arts_and_realms                | 193-240  | В ожидании | 38 стр. |
