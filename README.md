@@ -130,9 +130,9 @@ python scripts/glossary_tools.py merge      # Объединение дубли�
 
 | Раздел                                         | Страницы | Статус     | Объём   |
 | ---------------------------------------------- | -------- | ---------- | ------- |
-| 00_credits_and_dedication                      | 001-007  | В ожидании | 7 стр.  |
+| 00_credits_and_dedication                      | 001-007  | Завершено  | 7 стр.  |
 | 01_contents                                    | 008-011  | Завершено  | 4 стр.  |
-| 02_book_one_childling                          | 012-013  | В ожидании | 2 стр.  |
+| 02_book_one_childling                          | 012-013  | Завершено  | 2 стр.  |
 | 03_prelude_both_sides_of_the_coin              | 014-024  | В ожидании | 11 стр. |
 | 04_introduction                                | 025-030  | В ожидании | 6 стр.  |
 | 05_chapter_one_a_world_of_darkness             | 031-082  | В ожидании | 52 стр. |
