@@ -18,28 +18,28 @@
 
 ## 🏆 Топ шрифтов по использованию
 
-| Шрифт | Файлов | Ссылок | Страниц | Типы |
-|-------|--------|--------|---------|------|
-| `GoudyStd` | 459 | 469 | 1 | cff |
-| `Kells` | 431 | 433 | 1 | ttf |
-| `Kells-SC700` | 409 | 419 | 1 | ttf |
-| `GoudyStd-Bold` | 315 | 324 | 1 | cff |
-| `GoudyStd-Italic` | 202 | 202 | 1 | cff |
-| `MeathFLF-SC700` | 83 | 91 | 1 | cff |
-| `KellsFLF` | 69 | 69 | 1 | cff |
-| `MeathFLF` | 45 | 45 | 1 | cff |
-| `GoudyStd-BoldItalic` | 12 | 12 | 1 | cff |
-| `CaslonAntique-SC700` | 12 | 12 | 1 | cff |
-| `BoltonLight` | 10 | 10 | 1 | cff |
-| `BoltonLightItalic` | 9 | 9 | 1 | cff |
-| `TimesNewRomanPSMT` | 4 | 4 | 1 | ttf |
-| `ArialUnicodeMS` | 3 | 3 | 1 | ttf |
-| `Asqualt` | 2 | 2 | 1 | ttf |
-| `Kramola` | 2 | 2 | 1 | ttf |
-| `BoydUncial-SC700` | 2 | 2 | 1 | ttf |
-| `Helvetica-SC700` | 2 | 2 | 1 | ttf |
-| `Goudy-Bold` | 2 | 2 | 1 | cff |
-| `AdobeSongStd-Light` | 2 | 2 | 1 | cid |
+| Шрифт                 | Файлов | Ссылок | Страниц | Типы |
+| --------------------- | ------ | ------ | ------- | ---- |
+| `GoudyStd`            | 459    | 469    | 1       | cff  |
+| `Kells`               | 431    | 433    | 1       | ttf  |
+| `Kells-SC700`         | 409    | 419    | 1       | ttf  |
+| `GoudyStd-Bold`       | 315    | 324    | 1       | cff  |
+| `GoudyStd-Italic`     | 202    | 202    | 1       | cff  |
+| `MeathFLF-SC700`      | 83     | 91     | 1       | cff  |
+| `KellsFLF`            | 69     | 69     | 1       | cff  |
+| `MeathFLF`            | 45     | 45     | 1       | cff  |
+| `GoudyStd-BoldItalic` | 12     | 12     | 1       | cff  |
+| `CaslonAntique-SC700` | 12     | 12     | 1       | cff  |
+| `BoltonLight`         | 10     | 10     | 1       | cff  |
+| `BoltonLightItalic`   | 9      | 9      | 1       | cff  |
+| `TimesNewRomanPSMT`   | 4      | 4      | 1       | ttf  |
+| `ArialUnicodeMS`      | 3      | 3      | 1       | ttf  |
+| `Asqualt`             | 2      | 2      | 1       | ttf  |
+| `Kramola`             | 2      | 2      | 1       | ttf  |
+| `BoydUncial-SC700`    | 2      | 2      | 1       | ttf  |
+| `Helvetica-SC700`     | 2      | 2      | 1       | ttf  |
+| `Goudy-Bold`          | 2      | 2      | 1       | cff  |
+| `AdobeSongStd-Light`  | 2      | 2      | 1       | cid  |
 
 ## 📝 Полный список шрифтов
 
