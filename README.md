@@ -128,23 +128,23 @@ python scripts/glossary_tools.py merge      # Объединение дубли�
 
 ...уж всяко лучше чем "драконьи койки" лмао
 
-На данный момент отредактированы 95 из 463 страниц (20%)
+На данный момент отредактированы 103 из 463 страниц (22%)
 
-| Раздел                                         | Страницы | Статус    | Объём   |
-| ---------------------------------------------- | -------- | --------- | ------- |
-| 00_credits_and_dedication                      | 001-007  | Завершено | 7 стр.  |
-| 01_contents                                    | 008-011  | Завершено | 4 стр.  |
-| 02_book_one_childling                          | 012-013  | Завершено | 2 стр.  |
-| 03_prelude_both_sides_of_the_coin              | 014-024  | Завершено | 11 стр. |
-| 04_introduction                                | 025-030  | Завершено | 6 стр.  |
-| 05_chapter_one_a_world_of_darkness             | 031-082  | Завершено | 52 стр. |
-| 06_chapter_two_the_kithain                     | 083-138  | До стр 95 | 56 стр. |
-| 07_chapter_three_character_creation_and_traits | 139-192  | Ожидается | 54 стр. |
-| 08_chapter_four_arts_and_realms                | 193-240  | Ожидается | 38 стр. |
-| 09_chapter_five_rules                          | 241-250  | Ожидается | 10 стр. |
-| 10_chapter_six_systems_and_drama               | 251-298  | Ожидается | 48 стр. |
-| 11_chapter_seven_the_dreaming                  | 299-326  | Ожидается | 28 стр. |
-| 12_chapter_eight_storytelling                  | 327-344  | Ожидается | 18 стр. |
-| 13_chapter_nine_nightmares_and_stranger_things | 345-391  | Ожидается | 47 стр. |
-| 14_appendix_gallain                            | 392-452  | Ожидается | 61 стр. |
-| 15_appendix_enchanted                          | 453-463  | Ожидается | 11 стр. |
+| Раздел                                         | Страницы | Статус     | Объём   |
+| ---------------------------------------------- | -------- | ---------- | ------- |
+| 00_credits_and_dedication                      | 001-007  | Завершено  | 7 стр.  |
+| 01_contents                                    | 008-011  | Завершено  | 4 стр.  |
+| 02_book_one_childling                          | 012-013  | Завершено  | 2 стр.  |
+| 03_prelude_both_sides_of_the_coin              | 014-024  | Завершено  | 11 стр. |
+| 04_introduction                                | 025-030  | Завершено  | 6 стр.  |
+| 05_chapter_one_a_world_of_darkness             | 031-082  | Завершено  | 52 стр. |
+| 06_chapter_two_the_kithain                     | 083-138  | До стр 103 | 56 стр. |
+| 07_chapter_three_character_creation_and_traits | 139-192  | Ожидается  | 54 стр. |
+| 08_chapter_four_arts_and_realms                | 193-240  | Ожидается  | 38 стр. |
+| 09_chapter_five_rules                          | 241-250  | Ожидается  | 10 стр. |
+| 10_chapter_six_systems_and_drama               | 251-298  | Ожидается  | 48 стр. |
+| 11_chapter_seven_the_dreaming                  | 299-326  | Ожидается  | 28 стр. |
+| 12_chapter_eight_storytelling                  | 327-344  | Ожидается  | 18 стр. |
+| 13_chapter_nine_nightmares_and_stranger_things | 345-391  | Ожидается  | 47 стр. |
+| 14_appendix_gallain                            | 392-452  | Ожидается  | 61 стр. |
+| 15_appendix_enchanted                          | 453-463  | Ожидается  | 11 стр. |
