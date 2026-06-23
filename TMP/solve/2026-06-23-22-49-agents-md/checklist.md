@@ -1,0 +1,1 @@
+- [x] task-01: Написать AGENTS.md
