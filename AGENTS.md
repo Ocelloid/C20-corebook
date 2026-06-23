@@ -36,8 +36,8 @@ C20-corebook/
 ├── Правила использования Глоссария.md  # Glossary usage prompt
 ├── Правила пополнения Глоссария.md     # How to add new terms
 ├── scripts/                       # Python processing pipeline
-├── ctd-quartz/                    # Quartz wiki site (separate git repo inside)
-├── drive/                         # Logseq vault (untracked, experimental)
+├── ctd-quartz/                    # Git submodule → github.com/Ocelloid/ctd (branch v4)
+├── .gitmodules                    # Submodule config
 ├── .cursor/rules/                 # Agent rules (always active)
 └── fonts.md                       # PDF font analysis
 ```
@@ -185,8 +185,38 @@ Append new text at the end of the ru/ file.
 ## 6. Quartz Wiki Site
 
 **URL:** https://ctd.ocelloid.com  
-**Location:** `ctd-quartz/` (separate git repository, not a submodule)  
+**Location:** `ctd-quartz/` — **git submodule** pointing to `git@github.com:Ocelloid/ctd.git` (branch `v4`)  
 **Framework:** Quartz v4.5.1, deployed on Vercel
+
+### Clone with submodule
+
+```bash
+git clone --recurse-submodules git@github.com:Ocelloid/C20-corebook.git
+# or, after a plain clone:
+git submodule update --init --recursive
+```
+
+The parent repo stores only a **commit SHA** of the submodule, not its file contents.
+
+### Working with the submodule
+
+Wiki changes require **two commits** — one inside the submodule, one in the parent:
+
+```bash
+# 1. Edit wiki notes in ctd-quartz/content/
+cd ctd-quartz
+git checkout v4          # submodule may be in detached HEAD after update
+git add content/
+git commit -m "Update wiki notes"
+git push origin v4
+
+# 2. Pin the new submodule version in the parent repo
+cd ..
+git add ctd-quartz
+git commit -m "Update ctd-quartz submodule"
+```
+
+Do **not** edit `ctd-quartz/` files from the parent repo without entering the submodule directory first — changes must be committed inside `ctd-quartz` and then referenced from the parent.
 
 ### Key config (`ctd-quartz/quartz.config.ts`)
 
@@ -279,6 +309,11 @@ pip install -r scripts/requirements.txt
 ---
 
 ## 10. Quick Start Checklist
+
+When cloning or opening the repo for the first time:
+
+- [ ] Run `git submodule update --init --recursive` if `ctd-quartz/` is empty
+- [ ] Verify `ctd-quartz/content/` is present before working on wiki notes
 
 When starting any translation work:
 

@@ -1,0 +1,4 @@
+[submodule "ctd-quartz"]
+	path = ctd-quartz
+	url = git@github.com:Ocelloid/ctd.git
+	branch = v4
